@@ -1,5 +1,5 @@
 # Distributed-Hash-Table
-A Simulation of Distributed Hash table coded in C++ 
+A Simulation of Distributed Hash table coded in C++ that includes
 1. Option to specify the number of machines.
 2. Option to specify the size of identifier space in bits, i.e., 160 bits, 4 bits etc.
 3. Option to manually assign Id to each machine. If manual Ids are not assigned by the user, the
