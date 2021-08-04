@@ -15,3 +15,6 @@ removed from the AVL tree. The updated AVL tree must be printed.
 numbers) on which the corresponding values are stored.
 8. Option to add new machines on the fly without disrupting the functionality of Ring DHT.
 9. Option to remove any machine on the fly without disrupting the functionality of Ring DHT.
+
+# Execution
+Run `main.cpp` to start
